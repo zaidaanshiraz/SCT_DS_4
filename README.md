@@ -1,4 +1,4 @@
-# Traffic Accident Analysis (Skillcraft Technology Internship Project)
+# Traffic Accident Analysis 
 
 ## Project Overview
 This project analyzes traffic accidents in the United States based on data from [US Accidents Dataset](https://www.kaggle.com/datasets/sbhatti/us-accidents). The goal is to identify patterns in traffic accidents related to road conditions, weather, and time of day. Additionally, contributing factors such as the presence of traffic signals, stop signs, and junctions are also analyzed.
@@ -23,3 +23,4 @@ This project analyzes traffic accidents in the United States based on data from 
 - Pandas for data manipulation
 - Matplotlib and Seaborn for visualizations
 - Geopandas for geospatial analysis
+- Name: Mohammed Zaidaan Shiraz Email: zaidaanshiraz8@gmail.com GitHub: zaidaanshiraz
